@@ -62,3 +62,11 @@ var myVar = 10;
 console.log(myVar);
 myVar= true;
 console.log(myVar);
+
+myVar = "I am bulma"
+console.log(myVar)
+
+for(var i=0; i< 5; i++){
+    console.log(i)
+}
+console.log(i);
