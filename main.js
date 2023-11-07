@@ -34,3 +34,31 @@ console.log(0xFFn,typeof 0xFFn)
 console.log(10)
 console.log(1250.25)
 console.log(1.256e2, 1.245E4)
+
+*seperator*/
+console.log(0b10_10,typeof 0b101_01)
+console.log(0b1010,typeof 0b10101)
+console.log(0b1010,typeof 0b10101);
+console.log(0.3-0.2)  //IEEE-754 follows
+console.log(Infinity);
+console.log(5/0);
+console.log(-5/0);
+console.log(NaN);
+console.log(false/0);
+console.log('ABC',typeof 'ABC');
+console.log("ABC", typeof "ABC");
+console.log("This is 'fucking'");
+console.log(`ABC`,typeof `ABC`);
+console.log(`Hello
+                ${(2+3)}
+                        World`);
+console.log(Number.MAX_SAFE_INTEGER)
+console.log(undefined,null);
+console.log(Symbol("*")==Symbol("*"));
+
+console.log("----------------------------")
+
+var myVar = 10;
+console.log(myVar);
+myVar= true;
+console.log(myVar);
