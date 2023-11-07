@@ -70,3 +70,48 @@ for(var i=0; i< 5; i++){
     console.log(i)
 }
 console.log(i);
+
+var x = 5;
+var x = 10;
+var x = 'ijse';
+
+let y = 10;
+//let y = 4; 
+ y= "ijse";
+
+//  let x = 6;
+
+let myLocation;
+myLocation = " ijse";
+console.log(myLocation);
+
+for(let k=0; k< 5; k++){
+    console.log(k)
+}
+// console.log(k)
+
+var myCar;
+console.log(myCar);
+
+let myCa;
+console.log(myCa);
+
+let something = "IJSE";
+console.log(something);
+
+{
+    let something = "Esoft";
+console.log(something);
+}
+console.log(something);
+
+/*Constants*/
+const ab = 10;
+console.log(ab)
+ {
+    const ab  = 12;
+    console.log(ab)
+ }
+
+
+
